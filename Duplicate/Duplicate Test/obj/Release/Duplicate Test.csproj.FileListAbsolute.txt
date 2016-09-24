@@ -1,0 +1,8 @@
+C:\Users\vpastor\Documents\Visual Studio 2015\Projects\Duplicate-master\Duplicate Test\bin\Release\Duplicate Test.exe.config
+C:\Users\vpastor\Documents\Visual Studio 2015\Projects\Duplicate-master\Duplicate Test\bin\Release\Duplicate Test.exe
+C:\Users\vpastor\Documents\Visual Studio 2015\Projects\Duplicate-master\Duplicate Test\bin\Release\Duplicate Test.pdb
+C:\Users\vpastor\Documents\Visual Studio 2015\Projects\Duplicate-master\Duplicate Test\obj\Release\Duplicate_Test.Form1.resources
+C:\Users\vpastor\Documents\Visual Studio 2015\Projects\Duplicate-master\Duplicate Test\obj\Release\Duplicate_Test.Properties.Resources.resources
+C:\Users\vpastor\Documents\Visual Studio 2015\Projects\Duplicate-master\Duplicate Test\obj\Release\Duplicate Test.csproj.GenerateResource.Cache
+C:\Users\vpastor\Documents\Visual Studio 2015\Projects\Duplicate-master\Duplicate Test\obj\Release\Duplicate Test.exe
+C:\Users\vpastor\Documents\Visual Studio 2015\Projects\Duplicate-master\Duplicate Test\obj\Release\Duplicate Test.pdb

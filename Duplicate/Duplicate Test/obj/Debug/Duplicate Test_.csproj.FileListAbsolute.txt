@@ -1,0 +1,12 @@
+C:\Users\Ray\Desktop\Duplicate-master\Duplicate Test\bin\Debug\Duplicate Test.exe.config
+C:\Users\Ray\Desktop\Duplicate-master\Duplicate Test\obj\Debug\Duplicate Test.exe
+C:\Users\Ray\Desktop\Duplicate-master\Duplicate Test\obj\Debug\Duplicate Test.pdb
+C:\Users\Ray\Documents\Visual Studio 2015\Projects\Duplicate-master\Duplicate Test\bin\Debug\Duplicate Test.exe.config
+C:\Users\Ray\Documents\Visual Studio 2015\Projects\Duplicate-master\Duplicate Test\obj\Debug\Duplicate Test.exe
+C:\Users\Ray\Documents\Visual Studio 2015\Projects\Duplicate-master\Duplicate Test\obj\Debug\Duplicate Test.pdb
+C:\Users\Ray\Documents\Visual Studio 2015\Projects\Duplicate-master\Duplicate Test\bin\Debug\Duplicate Test.exe
+C:\Users\Ray\Documents\Visual Studio 2015\Projects\Duplicate-master\Duplicate Test\bin\Debug\Duplicate Test.pdb
+C:\Users\Ray\Documents\Visual Studio 2015\Projects\Duplicate-master\Duplicate Test\obj\Debug\Duplicate Test_.csprojResolveAssemblyReference.cache
+C:\Users\Ray\Documents\Visual Studio 2015\Projects\Duplicate-master\Duplicate Test\obj\Debug\Duplicate_Test.Form1.resources
+C:\Users\Ray\Documents\Visual Studio 2015\Projects\Duplicate-master\Duplicate Test\obj\Debug\Duplicate_Test.Properties.Resources.resources
+C:\Users\Ray\Documents\Visual Studio 2015\Projects\Duplicate-master\Duplicate Test\obj\Debug\Duplicate Test_.csproj.GenerateResource.Cache
