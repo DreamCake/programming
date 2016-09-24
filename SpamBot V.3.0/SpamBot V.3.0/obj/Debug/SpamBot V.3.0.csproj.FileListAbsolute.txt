@@ -1,0 +1,9 @@
+c:\users\ray\documents\visual studio 2015\Projects\SpamBot V.3.0\SpamBot V.3.0\bin\Debug\SpamBot V.3.0.exe.config
+c:\users\ray\documents\visual studio 2015\Projects\SpamBot V.3.0\SpamBot V.3.0\bin\Debug\SpamBot V.3.0.exe
+c:\users\ray\documents\visual studio 2015\Projects\SpamBot V.3.0\SpamBot V.3.0\bin\Debug\SpamBot V.3.0.pdb
+c:\users\ray\documents\visual studio 2015\Projects\SpamBot V.3.0\SpamBot V.3.0\obj\Debug\SpamBot V.3.0.csprojResolveAssemblyReference.cache
+c:\users\ray\documents\visual studio 2015\Projects\SpamBot V.3.0\SpamBot V.3.0\obj\Debug\SpamBot_V._3._0.Form1.resources
+c:\users\ray\documents\visual studio 2015\Projects\SpamBot V.3.0\SpamBot V.3.0\obj\Debug\SpamBot_V._3._0.Properties.Resources.resources
+c:\users\ray\documents\visual studio 2015\Projects\SpamBot V.3.0\SpamBot V.3.0\obj\Debug\SpamBot V.3.0.csproj.GenerateResource.Cache
+c:\users\ray\documents\visual studio 2015\Projects\SpamBot V.3.0\SpamBot V.3.0\obj\Debug\SpamBot V.3.0.exe
+c:\users\ray\documents\visual studio 2015\Projects\SpamBot V.3.0\SpamBot V.3.0\obj\Debug\SpamBot V.3.0.pdb
